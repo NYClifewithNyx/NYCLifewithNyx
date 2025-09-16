@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> TEST
+
+<!--hide--> < 왜 이게 hide지? //나 /**/ 이거 아님?
+*hide* < 왜 이게 italic이지?
