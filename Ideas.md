@@ -9,7 +9,7 @@
 **Temp. Quests**
 1. ~~DHD Consulting - Spreadsheet to Notion (9/15/25 Mon) - Completed (1hr)~~
 2. Freelancing with quests
-3. Make SaaS website using VibeCoding (Cursor, etc.) - 고민을 들어듣립니다 (gratitude with BuyMeaCoffee, etc.)
+3. Make SaaS website using VibeCoding (Cursor, etc.) - 고민을 들어드립니다 (gratitude with BuyMeaCoffee, etc.)
 *네이버 지식인 & 큐오라 열화 버전, 그러나 애플st 감성을 곁들인 - 아이디어가 생기면 재깍재깍 만들어 볼 것
 4. 망한 사업 인수해서 flip/makeover/turnover 해서 팔기 idea
 5. Can I buy a home in NY? website / app 만들기
