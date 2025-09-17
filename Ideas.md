@@ -22,3 +22,5 @@
 - 엑셀 파일을 csv 파일로 저장, 이후 노션에 템플릿에 duplicate w/o contents & merge with csv 파일로 자동화 이전 매우 빠른 수동화 완료
 - 노션 페이지 만들었음. 자세한 것은 나중에 더 업데이트 할 생각.
 - Cursor 다운로드 받았음 & 깔았음. 최대한 MVP(minimum viable product)를 만들어서 던지기.
+
+아니 .md 파일이 아니라서 문법이 적용이 안되어서 어쩌고 저쩌고 해서 코파일럿 처음 써봄
