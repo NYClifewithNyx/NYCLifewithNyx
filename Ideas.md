@@ -7,7 +7,7 @@
 
 
 **Temp. Quests**
-~~1. DHD Consulting - Spreadsheet to Notion (9/15/25 Mon) - Completed (1hr)~~
+1. ~~DHD Consulting - Spreadsheet to Notion (9/15/25 Mon) - Completed (1hr)~~
 2. Freelancing with quests
 3. Make SaaS website using VibeCoding (Cursor, etc.) - 고민을 들어듣립니다 (gratitude with BuyMeaCoffee, etc.)
 *네이버 지식인 & 큐오라 열화 버전, 그러나 애플st 감성을 곁들인 - 아이디어가 생기면 재깍재깍 만들어 볼 것
@@ -24,3 +24,4 @@
 - Cursor 다운로드 받았음 & 깔았음. 최대한 MVP(minimum viable product)를 만들어서 던지기.
 
 아니 .md 파일이 아니라서 문법이 적용이 안되어서 어쩌고 저쩌고 해서 코파일럿 처음 써봄
+근데 왜 temp quest가 다 엔터가 적용이 안되고 뭉쳐서 나오지...
