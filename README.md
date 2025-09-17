@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <!--hide--> < 왜 이게 hide지? //나 /**/ 이거 아님?
 *hide* < 왜 이게 italic이지?
+
+아니 다른 사람들은 다 설명 잘 붙어있던데 왜 내 리드미는 잘 안붙어있는거냐.... 스페셜 레포라서 그렇다는데
