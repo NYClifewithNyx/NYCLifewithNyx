@@ -44,4 +44,4 @@
 1. ~~Amazon Seller Central 재가입~~
 2. ~~Notion에 Amazon Associate 뼈대 잡기~~
 3. ~~알바용 이력서 만들기~~
-4. n8n이나 make 사용해서 자동 노션 계정 & substack + gunroad 이용해서 맞춤형 타로 newsletter 만들기
+4. n8n이나 make 사용해서 자동 노션 계정 & substack + gumroad 이용해서 맞춤형 타로 newsletter 만들기
