@@ -39,3 +39,8 @@
 6. ~~스친님 타로 & 데이빗 + 안젤라 타로 봐주기~~
 7. ~~책 픽업~~
 8. ~~노션으로 이거저거 만들어보기 - Project & Task -- substack 어떻게 하는지 알아냄~~
+
+**9/19/2025 (Fri)**
+1. ~~Amazon Seller Central 재가입~~
+2. ~~Notion에 Amazon Associate 뼈대 잡기~~
+3. ~~알바용 이력서 만들기~~
