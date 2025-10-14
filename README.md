@@ -45,7 +45,8 @@ I’ve lived in NYC for over **20 years**, balancing corporate leadership, hands
 **Threads / IG:** `@nyclifewithnyx`  
 **Website / Templates:** [nyclifewithnyx.gumroad.com](https://nyclifewithnyx.gumroad.com)  
 **GitHub:** [github.com/NYCLifewithNyx](https://github.com/NYCLifewithNyx)   
-**Notion:** [AI 용역잡부: 안녕하세요 닉스입니다!](https://nyclifewithnyx.notion.site/AI-2754bdea02d580159580fd4b9eb2e969?pvs=74)
+**Notion Marketplace:** [Notion Creator: NYCLifewithNyx](https://www.notion.com/@nyclifewithnyx)
+**AI Helper Page:** [AI 용역잡부: 안녕하세요 닉스입니다!](https://nyclifewithnyx.notion.site/AI-2754bdea02d580159580fd4b9eb2e969?pvs=74)
 
 ---
 
