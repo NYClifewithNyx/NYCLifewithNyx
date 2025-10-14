@@ -35,7 +35,7 @@ I’ve lived in NYC for over **20 years**, balancing corporate leadership, hands
 
 - Building **AI-powered quant tools**  
 - Developing **Notion-integrated financial systems**  
-- Preparing for **CFA Level I & Series 65 retake**  
+- Exploring both **code and no-code development**, from **Python & JavaScript** to tools like **Cursor** and **Lovable**  
 - Experimenting with **automation-driven business models**
 
 ---
