@@ -27,8 +27,7 @@ I’ve lived in NYC for over **20 years**, balancing corporate leadership, hands
 - B.S. in **Chemical Engineering**, **graduated top of class**  
 - M.S. in **Materials Engineering**, **first in department history to graduate early for thesis-master's (1.5 years)**  
 - 15+ years bilingual experience (🇺🇸 English ↔ 🇰🇷 Korean translator & interpreter)  
-- Experienced in **credit analysis, portfolio management, and structured finance**  
-- Currently preparing for **CFA Level I** (Nov 2025) & advanced **Quant certifications**
+- Experienced in **credit underwriter, portfolio management, and structured finance**  
 
 ---
 
