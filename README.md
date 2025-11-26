@@ -45,7 +45,6 @@ My approach blends precision from finance, logic from engineering, and creativit
 
 ## 🌐 Connect
 
-**Threads / IG:** `@nyclifewithnyx`  
 **Website / Templates:** [nyclifewithnyx.gumroad.com](https://nyclifewithnyx.gumroad.com)  
 **GitHub:** [github.com/NYCLifewithNyx](https://github.com/NYCLifewithNyx)   
 **Notion Marketplace:** [Notion Creator: NYCLifewithNyx](https://www.notion.com/@nyclifewithnyx)   
