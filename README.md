@@ -6,7 +6,7 @@
 
 ## 🧭 About Me
 
-Based in **New York City**, I work as a **Commercial, Residential and SBA Loan Officer & Team Lead** at a Korean-affiliated bank,   
+Based in **New York City**, I work as a **CM, HM and SBA Loan Officer & Team Lead** at a Korean-affiliated bank,   
 managing complex credit processes and structuring multimillion-dollar deals.  
 Outside of finance, I build **systems that think and run by themselves** — from **AI automation workflows (n8n)** to   
 **data-driven Notion templates** that simplify work and decision-making.
